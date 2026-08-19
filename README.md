@@ -1,5 +1,11 @@
 # 💫 About Me:
-## About Me<br><br>* FPGA & Digital Design Engineer specializing in **RTL, VHDL, and FPGA development**.<br>* Experienced in **digital design, hardware verification, and testbench development**.<br>* Skilled in **VUnit, GHDL, Python, and automated verification**.<br>* Strong focus on **reliable, reusable, and maintainable RTL design**.<br>* Experienced with **Git, Jenkins, Docker, and CI/CD automation**.<br>* Passionate about **verification-driven and automation-focused hardware development**.<br>* Interested in **FPGA architecture, advanced verification, and technical leadership**.<br>
+* 🧠 **FPGA & Digital Design Engineer** — RTL, VHDL & FPGA development
+* ⚙️ **Hardware Verification** — VUnit, GHDL, Python & testbench development
+* 🧩 **Digital Design** — Reliable, reusable & maintainable RTL
+* 🔄 **CI/CD & Automation** — Jenkins, Git, Docker & automated workflows
+* 🧪 **Verification-Driven Development** — Regression & randomized testing
+* 🚀 **Engineering Focus** — Quality, scalability & continuous improvement
+* 🎯 **Career Focus** — Senior FPGA Engineer · RTL Engineer · Technical Lead
 
 
 ## 🌐 Socials:
